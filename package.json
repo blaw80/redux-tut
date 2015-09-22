@@ -49,6 +49,9 @@
     "webpack-hot-middleware": "^2.0.0"
   },
   "dependencies": {
-    "react": "^0.13.0"
+    "bluebird": "^2.10.1",
+    "react": "^0.13.0",
+    "react-redux": "^2.1.2",
+    "redux": "^3.0.0"
   }
 }
